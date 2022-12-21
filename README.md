@@ -1,20 +1,7 @@
-### Hi there 👋. I'm Nguyen Duc Lai, and this is a very professional profile
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenduclai99&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenduclai99&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenduclai99&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenduclai99&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenduclai99&theme=default&utcOffset=8)
 
-| ![1](https://i.giphy.com/media/MGdfeiKtEiEPS/giphy.webp) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
-| --- | --- | --- |
-
-
-<!--
-**conanak99/conanak99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=nguyenduclai99&color=green)
